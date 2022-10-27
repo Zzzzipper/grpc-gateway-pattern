@@ -16,9 +16,9 @@ import (
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/grpclog"
 
-	"github.com/Zzzzipper/grpc-gateway-pattern/insecure"
-	pbExample "github.com/Zzzzipper/grpc-gateway-pattern/proto"
-	"github.com/Zzzzipper/grpc-gateway-pattern/third_party"
+	"gitlab.mapcard.pro/external-map-team/grpc-gateway-pattern/insecure"
+	pbExample "gitlab.mapcard.pro/external-map-team/grpc-gateway-pattern/proto"
+	"gitlab.mapcard.pro/external-map-team/grpc-gateway-pattern/third_party"
 )
 
 // getOpenAPIHandler serves an OpenAPI UI.

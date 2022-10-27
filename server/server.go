@@ -6,7 +6,7 @@ import (
 
 	"github.com/gofrs/uuid"
 
-	pbExample "github.com/Zzzzipper/grpc-gateway-pattern/proto"
+	pbExample "gitlab.mapcard.pro/external-map-team/grpc-gateway-pattern/proto"
 )
 
 // Backend implements the protobuf interface
